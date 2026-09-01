@@ -25,4 +25,3 @@ Focused on backend development, APIs, and software testing. Currently deep in re
 
 ---
 
-![Cristian's GitHub stats](https://github-readme-stats-one-dun-85.vercel.app/api?username=Cris-ss&show_icons=true&theme=dark)
